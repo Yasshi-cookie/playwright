@@ -1,0 +1,14 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "ブラウザー自動化のためのE2Eテストフレームワーク。複数のブラウザでのテストを効率的に実行し、品質保証のプロセスを強化しています。[公式サイト](https://playwright.dev/)",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.0"
+  }
+}
